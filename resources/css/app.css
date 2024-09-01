@@ -1,0 +1,58 @@
+/*for bootstrap*/
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+:root {
+
+.hanken-grotesk-font {
+    font-family: "Hanken Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+}
+
+/* custom css */
+.bg-white-opacity-10 {
+    background-color: rgba(255, 255, 255, 0.10); /* white with 5% opacity */
+}
+
+.bg-white-opacity-5 {
+    background-color: rgba(255, 255, 255, 0.10); /* white with 5% opacity */
+}
+
+.remove-link-decoration > a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.tag-font-size {
+    font-size:10px;
+}
+
+.tag-font-size-bg {
+    font-size: 14px;
+}
+
+.tag-font-size:hover {
+    background-color: rgba(255, 255, 255, 0.15); /* white with 5% opacity */
+    transition-duration: 300ms;
+}
+
+.border-card {
+    border: 1px solid transparent;
+}
+
+.border-card:hover {
+
+    .color-title
+    {
+        color: blue;
+        transition-duration: 300ms;
+
+    }
+    border: 1px solid darkblue;
+    transition-duration: 300ms;
+
+}
+
+

@@ -1,4 +1,5 @@
 <x-layout>
+{{--    @dd($tags,$jobs)--}}
     <div class="d-flex flex-column gap-5">
         <section class="text-center pt-4">
             <h1 class="fw-bold">Let's Find Your Next Job</h1>
